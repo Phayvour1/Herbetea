@@ -1,19 +1,12 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import imageSrc from '../assets/Rectangle 601.png';
-import imageSrc2 from '../assets/Rectangle 63.png';
-import imageSrc3 from '../assets/Ratings.png';
+import imageSrc from '/Rectangle 601.png';
+import imageSrc2 from '/Rectangle 63.png';
+import imageSrc3 from '/Ratings.png';
 
 
 import './Productdetail.css'
 
-
-
-const products = [
-  { id: 1, name: 'Blossom Harmony Tea', price: 3500, img: 'src/assets/Rectangle 63.png', rating: 58, desc: 'A perfect blend of nature’s finest herbs.', },
-  { id: 2, name: 'Blossom Harmony Tea', price: 3500, img: 'src/assets/Rectangle 63 (1).png', rating: 45, desc: 'A perfect blend of nature’s finest herbs.', },
-  { id: 3, name: 'Blossom Harmony Tea', price: 3500, img: 'src/assets/Rectangle 63 (2).png', rating: 50, desc: 'A perfect blend of nature’s finest herbs.', },
-]; 
 
 const Productdetail = () => {
   const { productId } = useParams();

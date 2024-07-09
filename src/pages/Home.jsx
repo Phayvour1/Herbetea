@@ -21,7 +21,7 @@ export default function Home() {
             </button></Link>
         </div>
         <div className="womens-herbal-tea-img">
-            <img src="src\assets\Right side.png" alt="womens-herbal-tea-image" />
+            <img src="Right side.png" alt="womens-herbal-tea-image" />
         </div>
       </div>
       <div className='explore-Categories'>
@@ -42,7 +42,7 @@ export default function Home() {
             </button></Link>
         </div>
         <div className="Slimming-tea-img">
-            <img src="src\assets\Rectangle 60.png" alt="Slimming-tea-image" />
+            <img src="Rectangle 60.png" alt="Slimming-tea-image" />
         </div>
       </div> 
      <div className="cleasing-tea">
@@ -58,7 +58,7 @@ export default function Home() {
             </button></Link>
         </div>
         <div className="Cleansing-tea-img">
-            <img src="src\assets\Rectangle 74.png" alt="Cleansing-tea-image" />
+            <img src="Rectangle 74.png" alt="Cleansing-tea-image" />
         </div>
      </div>
      <div className="english-tea">
@@ -74,7 +74,7 @@ export default function Home() {
             </button></Link>
         </div>
         <div className="englsh-tea-img">
-            <img src="src\assets\Rectangle 74 (1).png" alt="English-tea-image" />
+            <img src="Rectangle 74 (1).png" alt="English-tea-image" />
         </div>
      </div>
      <div className='payment-options'>
@@ -83,10 +83,10 @@ export default function Home() {
         <div className="payment-options-lower-line"></div>
       </div>
       <div className="various-payment-options">
-        <div><img src="src\assets\Group 21.png" alt="" /></div>
-        <div><img src="src\assets\Group 22.png" alt="" /></div>
-        <div><img src="src\assets\Frame 14.png" alt="" /></div>
-        <div><img src="src\assets\Frame 15.png" alt="" /></div>
+        <div><img src="Group 21.png" alt="" /></div>
+        <div><img src="Group 22.png" alt="" /></div>
+        <div><img src="Frame 14.png" alt="" /></div>
+        <div><img src="Frame 15.png" alt="" /></div>
       </div>
     </div>
   );
