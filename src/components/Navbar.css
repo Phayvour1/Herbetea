@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.uppernav{
+     margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    padding: 0px 50px; 
+   
+
+}
+.navline{
+    border-bottom: 1px solid  ;
+    opacity: 20%;
+   margin: 20px 40px;
+
+}
+
+.icon-link-user {
+    text-decoration: none;
+    color: inherit;
+  }
+  .icon-link-cart {
+    text-decoration: none;
+    color: inherit;
+    padding: 5px;
+  }
+  .icon-link-cart-num{
+    position: absolute;
+    background-color: red;
+    padding: 1px;
+    border-radius: 50%;
+    margin-right: 10%;
+    color: aliceblue;
+  }
+
+.navlink{
+    display: flex;
+    justify-content: space-between;
+    gap: 20%;
+    margin-left: 20px;
+    padding: 30px;
+}
+
+
+.herbetea{
+        font-family: 'Italianno';
+        font-size: 64px;
+        color: #264E36;
+        font-weight: normal;
+        margin-left: 30px;
+        padding: 20px 0px 0px 0px;
+        text-decoration: none;
+}
+.lowernav{
+  margin-top:30px;
+  display: flex;
+  justify-content: center;
+  gap: 7%;
+  text-decoration: none;
+  list-style-type: none;
+
+}
+.lowernav li{
+  text-decoration: none;
+}
+.lowernav li :active{
+  text-decoration: underline;
+  text-decoration-line: underline;
+}
+
+
+  .home-link, .product-link{
+    text-decoration: none;
+    list-style: none;
+    color: inherit;
+    padding: 2px;
+    font-family: 'Playfair Display';
+    font-size: 20px;
+    line-height: 26px;
+    color: #264E36;
+  }
+  
+  .home-link:active, .product-link:active{
+    text-decoration: underline;
+
+  }

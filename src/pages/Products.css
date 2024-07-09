@@ -1,0 +1,84 @@
+.grid-row1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5%;
+    margin: 6%;
+}
+h1{
+    margin: 5%;
+    color: var(--Color, rgba(16, 17, 19, 0.90));
+font-family: Quicksand;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+.card1-name{
+    display: flex;
+    gap: 15%;
+}
+
+.card1-name h4{
+    font-family: Playfair Display;
+font-size: 24px;
+font-weight: 500;
+line-height: 31.99px;
+text-align: left;
+
+}
+
+.card1-name h5{
+    color: var(--dark, #101113);
+font-family: "Playfair Display";
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.desc-and-btn{
+    display: flex;
+    gap: 43%;
+    margin: 5px;
+
+}
+
+.desc-and-btn h4{
+    color: var(--dark, #101113);
+font-family: Quicksand;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.desc-and-btn button{
+    display: flex;
+padding: 10px;
+justify-content: center;
+align-items: center;
+gap: 10%;
+border-radius: 4px;
+background: #E9731F;
+border: #E9731F;
+color: #FCFCFC;
+margin-top: 1px;
+}
+
+.rating{
+    display: flex;
+}
+
+.rating h5{
+    color: #000;
+font-family: Quicksand;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+
