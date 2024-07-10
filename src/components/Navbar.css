@@ -88,3 +88,23 @@
     text-decoration: underline;
 
   }
+
+
+
+
+
+  
+@media (max-width: 1100px) {
+.uppernav{
+  margin: 0;
+}
+.icon-link-cart{
+  padding-top: 100%;
+}
+ .navline{
+  margin: 0px 20% 0px 20%;
+ }
+
+
+
+}

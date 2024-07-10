@@ -262,13 +262,128 @@ line-height: 45px;
 
 
 
-/* @media (max-width: 900px) {
+@media (max-width: 1100px) {
+
+
     .herbal-tea{
         display: flex;
         flex-direction: column-reverse;
-        padding: 50px;
+        padding: 0px;
+        margin: 0;
         
-    } */
+    }
+
+    .moble-nav{
+        margin-top: -20%;
+        padding: 0;
+    }
+
+
+.womens-herbal-tea-img img{
+max-width:60% ;
+margin: 25%;
+margin-bottom: 0;
+max-width: 50%;
+}
+.womens-herbal-tea{
+    padding: 0;
+    margin: 25%;
+    margin-top: 0;
+    border-radius: 0;
+
+
+}
+.womens-herbal-tea h1 {
+    color: var(--light, #FCFCFC);
+    font-family: "Playfair Display";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 70px; /* 109.375% */
+}
+
+.womens-herbal-tea h5{
+    color: #FCFCFC;
+    font-family: Quicksand;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 10%;
+}
+
+.Explore-Products {
+    margin: 10%;
+    color: #FCFCFC;
+font-family: Quicksand;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.explore-Categories h2{
+font-size: 25px;
+
+}
+.explore-Categories{
+    margin-top: -160px;
+}
+.slimming-tea{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.slimming-tea img{
+    max-width:60% ;
+margin: 0 0% 0 20%
+
+}
+.Slimming-tea-text{
+    margin: -5px 20%;
+text-wrap: balance;
+}
+
+.cleasing-tea{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.cleasing-tea img{
+    max-width:60% ;
+margin: -10px 0% 0 20%
+
+}
+.Cleansing-tea-text{
+    margin: -5px 20%;
+text-wrap: balance;
+}
+
+
+.english-tea{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.english-tea img{
+    max-width:60% ;
+margin: -10px 0% 0 20%
+
+}
+.English-tea-text{
+    margin: -5px 20%;
+text-wrap: balance;
+}
+
+.payment-options h2{
+    font-size: 25px;
+    
+    }
+.various-payment-options{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+
+
+}
 
 
 

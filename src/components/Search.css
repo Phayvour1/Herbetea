@@ -32,12 +32,17 @@
 
 
 
+
+
   @media (max-width: 900px) {
 
 
     .search-bar {
-      display: flex
+      display: none
+      
 
     }
 
+
+    
   }
