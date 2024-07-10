@@ -30,8 +30,7 @@ export default function Products({ addToCart }) {
       <div className='grid-row1'>
         {products.map((product) => (
           <div className='card1' key={product.id}>
-           <a href="/productdetail/:productId">
- <img src={product.img} alt={product.name} /></a>
+ <img src={product.img} alt={product.name} />
             <div>
               <div className='card1-name'>
                 <h4>{product.name}</h4>
@@ -41,7 +40,7 @@ export default function Products({ addToCart }) {
                 <div>
                   <h6>A perfect blend of nature</h6>
                   <div className='rating'>
-                    <img src="src/assets/Ratings.png" alt="rating" /> 
+                    <img src="Ratings.png" alt="rating" /> 
                     <h6>({product.rating})</h6>
                   </div>
                 </div>
