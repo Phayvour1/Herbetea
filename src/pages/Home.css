@@ -262,7 +262,7 @@ line-height: 45px;
 
 
 
-@media (max-width: 1100px) {
+/* @media (max-width: 1100px) {
 
 
     .herbal-tea{
@@ -299,7 +299,7 @@ max-width: 50%;
     font-size: 64px;
     font-style: normal;
     font-weight: 400;
-    line-height: 70px; /* 109.375% */
+    line-height: 70px;
 }
 
 .womens-herbal-tea h5{
@@ -387,4 +387,4 @@ text-wrap: balance;
 
 
 
-
+ */
