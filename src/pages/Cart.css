@@ -1,3 +1,10 @@
+
+
+button:active{
+    opacity: 70%;
+}
+
+
 .shoppingcart-and-shippinginfo{
 background: #FCEDC1;
 padding: 20px;
