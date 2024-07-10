@@ -37,9 +37,9 @@ export default function Home() {
             <h5>
             Our Specially crafted slimming herbal tea blends are designed to support women’s health and well-being.
             </h5>
-            <Link to="/productdetail/:productId" >  <button className='Buy-now-Slimming-tea'>
+              <button className='Buy-now-Slimming-tea'>
             Buy Now
-            </button></Link>
+            </button>
         </div>
         <div className="Slimming-tea-img">
             <img src="Rectangle 60.png" alt="Slimming-tea-image" />
@@ -53,9 +53,9 @@ export default function Home() {
             <h5>
             Our Specially crafted slimming herbal tea blends are designed to support women’s health and well-being.
             </h5>
-            <Link to="/productdetail/:productId" >  <button className='Buy-now-cleasing-tea'>
+              <button className='Buy-now-cleasing-tea'>
             Buy Now
-            </button></Link>
+            </button>
         </div>
         <div className="Cleansing-tea-img">
             <img src="Rectangle 74.png" alt="Cleansing-tea-image" />
@@ -69,9 +69,9 @@ export default function Home() {
             <h5>
             Our Specially crafted slimming herbal tea blends are designed to support women’s health and well-being. 
             </h5>
-            <Link to="/productdetail/:productId" >  <button className='Buy-now-englsh-tea'>
+              <button className='Buy-now-englsh-tea'>
             Buy Now
-            </button></Link>
+            </button>
         </div>
         <div className="englsh-tea-img">
             <img src="Rectangle 74 (1).png" alt="English-tea-image" />
