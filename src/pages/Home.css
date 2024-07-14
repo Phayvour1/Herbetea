@@ -8,7 +8,7 @@
      background: #264E369C;
      max-height:656px ;
      border-radius: 10px 0px 0px 10px;
-
+   
 }
 
 .womens-herbal-tea h1{
@@ -19,6 +19,7 @@ font-weight: 400;
 line-height: 105px;
 text-align: left;
 color: #FCFCFC;
+
 
 }
 .womens-herbal-tea h5{
@@ -87,7 +88,7 @@ line-height: 45px;
 .slimming-tea{
     display: flex;
     flex-direction: row-reverse;
-    padding: 40px;
+    padding: 100px;
 
 
 }
@@ -130,7 +131,7 @@ color: #FCFCFC;
 
 .cleasing-tea{
     display: flex;
-    padding: 40px;
+    padding: 100px;
 }
 .Cleansing-tea-text{
     padding: 50px;
@@ -173,7 +174,7 @@ color: #FCFCFC;
 .english-tea{
     display: flex;
     flex-direction: row-reverse;
-    padding: 40px;
+    padding: 100px;
 
 }
 .English-tea-text{
@@ -262,7 +263,7 @@ line-height: 45px;
 
 
 
-@media (max-width: 1100px) {
+/* @media (max-width: 1100px) {
 
 
     .herbal-tea{
@@ -299,7 +300,7 @@ max-width: 50%;
     font-size: 64px;
     font-style: normal;
     font-weight: 400;
-    line-height: 70px; /* 109.375% */
+    line-height: 70px;
 }
 
 .womens-herbal-tea h5{
@@ -387,4 +388,4 @@ text-wrap: balance;
 
 
 
-
+ */

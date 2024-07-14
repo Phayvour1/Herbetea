@@ -10,6 +10,7 @@ export default function Home() {
       <div className='herbal-tea'>
         
         <div className="womens-herbal-tea">
+          <div>
             <h1>
             Women’s Herbal Tea
             </h1>
@@ -19,6 +20,7 @@ export default function Home() {
             <Link to="/products" > <button className='Explore-Products'>
             Explore Products
             </button></Link>
+            </div>
         </div>
         <div className="womens-herbal-tea-img">
             <img src="Right side.png" alt="womens-herbal-tea-image" />

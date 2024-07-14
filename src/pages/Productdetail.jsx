@@ -3,13 +3,22 @@ import { useParams } from 'react-router-dom';
 import imageSrc from '/Rectangle 601.png';
 import imageSrc2 from '/Rectangle 63.png';
 import imageSrc3 from '/Ratings.png';
-
-
 import './Productdetail.css'
+
+
+
+
+
 
 
 const Productdetail = () => {
   const { productId } = useParams();
+
+
+
+
+
+  
 
 
   
