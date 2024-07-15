@@ -1,0 +1,391 @@
+.herbal-tea{
+    display: flex;
+    padding: 50px;
+    
+}
+.womens-herbal-tea{
+    padding: 70px;
+     background: #264E369C;
+     max-height:656px ;
+     border-radius: 10px 0px 0px 10px;
+   
+}
+
+.womens-herbal-tea h1{
+    padding: 20px;
+    font-family: 'Playfair Display';
+font-size: 96px;
+font-weight: 400;
+line-height: 105px;
+text-align: left;
+color: #FCFCFC;
+
+
+}
+.womens-herbal-tea h5{
+    padding: 20px;
+    font-family: 'Quicksand';
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 400;
+    text-align: left;
+    color: #FCFCFC;
+    text-wrap: wrap;
+}
+
+.Explore-Products{
+    background-color: #E9731F;
+    border: #E9731F;
+    padding: 20px;
+    border-radius: 8px;
+    color: #FCFCFC;
+    font-family: 'Quicksand';
+font-size: 24px;
+font-weight: 600;
+text-align: left;
+margin-top: 40px;
+
+}
+
+
+
+
+.womens-herbal-tea-img{
+    display: flex;
+border-radius: 0px 10px 10px 0px;
+}
+
+.explore-Categories-upper-line{
+    border: 1px solid;
+    margin-right:  35%;
+    margin-left:  35%;
+    opacity: 40%;
+    margin-top: 15px;
+    color: #101113E5;
+    
+}
+.explore-Categories h2{
+    margin-top: 15px;
+display: flex;
+justify-content: center;
+color: #101113E5;
+font-family: 'Quicksand';
+font-size: 36px;
+font-weight: 400;
+line-height: 45px;
+
+
+}
+.explore-Categories-lower-line{
+    border: 1px solid;
+    margin-right:  35%;
+    margin-left:  35%;
+    opacity: 40%;
+    margin-top: 15px;
+    color: #101113E5;
+
+}
+.slimming-tea{
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 100px;
+
+
+}
+.Slimming-tea-text{
+    padding: 50px;
+    background: #FBBC053D;
+    max-height: 688px;
+}
+
+.Slimming-tea-text h1{
+    font-family: 'Playfair Display';
+font-size: 36px;
+font-weight: 400;
+text-align: left;
+margin: 30px 0px;
+}
+.Slimming-tea-text h5{
+    margin: 20px 0px;
+    font-family: 'Quicksand';
+font-size: 24px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+
+}
+.Buy-now-Slimming-tea{
+    margin-top: 40px;
+    background: #264E36;
+    border-radius: 8px;
+    padding: 12px 50px;
+    border: #264E36;
+    font-family: Quicksand;
+font-size: 24px;
+font-weight: 600;
+line-height: 30px;
+text-align: center;
+color: #FCFCFC;
+
+}
+
+.cleasing-tea{
+    display: flex;
+    padding: 100px;
+}
+.Cleansing-tea-text{
+    padding: 50px;
+    background: #FBBC053D;
+    max-height: 688px;
+}
+
+.Cleansing-tea-text h1{
+    font-family: 'Playfair Display';
+font-size: 36px;
+font-weight: 400;
+text-align: left;
+margin: 30px 0px;
+}
+.Cleansing-tea-text h5{
+    margin: 20px 0px;
+    font-family: 'Quicksand';
+font-size: 24px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+
+}
+.Buy-now-cleasing-tea{
+    margin-top: 40px;
+    background: #264E36;
+    border-radius: 8px;
+    padding: 12px 50px;
+    border: #264E36;
+    font-family: Quicksand;
+font-size: 24px;
+font-weight: 600;
+line-height: 30px;
+text-align: center;
+color: #FCFCFC;
+
+}
+
+
+.english-tea{
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 100px;
+
+}
+.English-tea-text{
+    padding: 50px;
+    background: #FBBC053D;
+    max-height: 688px;
+}
+
+.English-tea-text h1{
+    font-family: 'Playfair Display';
+font-size: 36px;
+font-weight: 400;
+text-align: left;
+margin: 30px 0px;
+}
+.English-tea-text h5{
+    margin: 20px 0px;
+    font-family: 'Quicksand';
+font-size: 24px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+
+}
+.Buy-now-englsh-tea{
+    margin-top: 40px;
+    background: #264E36;
+    border-radius: 8px;
+    padding: 12px 50px;
+    border: #264E36;
+    font-family: Quicksand;
+font-size: 24px;
+font-weight: 600;
+line-height: 30px;
+text-align: center;
+color: #FCFCFC;
+
+}
+
+.payment-options-upper-line{
+    border: 1px solid;
+    margin-right:  35%;
+    margin-left:  35%;
+    opacity: 40%;
+    margin-top: 15px;
+    color: #101113E5;
+    
+}
+.payment-options h2{
+    margin-top: 15px;
+display: flex;
+justify-content: center;
+color: #101113E5;
+font-family: 'Quicksand';
+font-size: 36px;
+font-weight: 400;
+line-height: 45px;
+
+
+}
+.payment-options-lower-line{
+    border: 1px solid;
+    margin-right:  35%;
+    margin-left:  35%;
+    opacity: 40%;
+    margin-top: 15px;
+    color: #101113E5;
+
+}
+.various-payment-options{
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    margin: 5%;
+    margin-bottom: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media (max-width: 1100px) {
+
+
+    .herbal-tea{
+        display: flex;
+        flex-direction: column-reverse;
+        padding: 0px;
+        margin: 0;
+        
+    }
+
+    .moble-nav{
+        margin-top: -20%;
+        padding: 0;
+    }
+
+
+.womens-herbal-tea-img img{
+max-width:60% ;
+margin: 25%;
+margin-bottom: 0;
+max-width: 50%;
+}
+.womens-herbal-tea{
+    padding: 0;
+    margin: 25%;
+    margin-top: 0;
+    border-radius: 0;
+
+
+}
+.womens-herbal-tea h1 {
+    color: var(--light, #FCFCFC);
+    font-family: "Playfair Display";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 70px;
+}
+
+.womens-herbal-tea h5{
+    color: #FCFCFC;
+    font-family: Quicksand;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 10%;
+}
+
+.Explore-Products {
+    margin: 10%;
+    color: #FCFCFC;
+font-family: Quicksand;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.explore-Categories h2{
+font-size: 25px;
+
+}
+.explore-Categories{
+    margin-top: -160px;
+}
+.slimming-tea{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.slimming-tea img{
+    max-width:60% ;
+margin: 0 0% 0 20%
+
+}
+.Slimming-tea-text{
+    margin: -5px 20%;
+text-wrap: balance;
+}
+
+.cleasing-tea{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.cleasing-tea img{
+    max-width:60% ;
+margin: -10px 0% 0 20%
+
+}
+.Cleansing-tea-text{
+    margin: -5px 20%;
+text-wrap: balance;
+}
+
+
+.english-tea{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.english-tea img{
+    max-width:60% ;
+margin: -10px 0% 0 20%
+
+}
+.English-tea-text{
+    margin: -5px 20%;
+text-wrap: balance;
+}
+
+.payment-options h2{
+    font-size: 25px;
+    
+    }
+.various-payment-options{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+
+
+}
+
+
+
+ */

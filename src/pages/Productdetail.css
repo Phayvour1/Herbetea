@@ -1,0 +1,109 @@
+.img-and-text{
+    display: flex;
+    margin: 5%;
+}
+
+.other-half{
+    padding: 2%;
+    height: 1312px;
+    background: rgba(251, 188, 5, 0.24);
+}
+
+.other-half h1{
+    color: var(--dark, #101113);
+font-family: "Playfair Display";
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-bottom: 5%;
+margin: 0;
+}
+
+.other-half h4{
+    color: var(--dark, #101113);
+font-family: Quicksand;
+font-size: 24px;
+font-style: normal;
+font-weight: 450;
+line-height: normal;
+}
+.other-half ul{
+    margin: 4%;
+    margin-left: 6%;
+
+}
+.other-half li{
+    color: var(--dark, #101113);
+    font-family: Quicksand;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    
+    
+}
+.minus-button1{
+    color: var(--light, #FCFCFC);
+text-align: center;
+font-family: Quicksand;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+background: #264E36;
+border: none;
+    padding: 20px;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.quantity-num1{
+    background-color: var(--light, #FCFCFC);
+    text-align: center;
+    font-family: Quicksand;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    padding: 0px 10px 0px 10px;
+    border: none;
+    color:  rgba(0, 0, 0, 0.60);
+    padding: 20px;
+}
+
+.plus-button1{
+    color: var(--light, #FCFCFC);
+    text-align: center;
+    font-family: Quicksand;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    background: #264E36;
+    padding: 0px 10px 0px 10px;
+    border: none;
+    padding: 20px;
+    border-radius: 0px 10px 10px 0px;
+}
+
+
+
+.count-buy{
+    margin-top: 20%;
+    display: flex;
+    gap: 40%;
+}
+
+.buy-now{
+    color: var(--light, #FCFCFC);
+text-align: center;
+font-family: Quicksand;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+background: #264E36;
+padding: 20px 40px 20px 40px;
+border: none;
+border-radius: 10px;
+
+}
+
+

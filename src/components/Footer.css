@@ -1,0 +1,108 @@
+.footer{
+    display: flex;
+    gap: 17%;
+    padding: 3%;
+    
+    ;
+}
+footer{
+    background-color:#264E369C;
+}
+
+
+/* .herbetea-footer{
+
+} */
+
+.herbetea-footer h1{
+    font-family: italianno;
+    color: #FCFCFC;
+
+}
+
+.herbetea-footer h6{
+    font-family:'Quicksand' ;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FCFCFC;
+}
+
+.shop-here{
+    margin: 20px 0px;
+}
+
+.footer-middle{
+    display: flex;
+    flex-wrap: wrap;
+justify-content: space-between;
+gap: 50px;
+    font-family: 'Quicksand';
+font-size: 20px;
+font-weight: 300;
+line-height: 30px;
+text-align: left;
+color: #FFFFFF;
+;
+
+}
+.footer-middle ul{
+    list-style-type: none;
+}
+.sitemap{
+    color: #FFF;
+font-family: "Playfair Display";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.subscribe-container{
+    border:#FCFCFC ;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .subscribe-container input{
+    border: none;
+    margin: 20px;
+  }
+.subscribe-container button{
+    margin-bottom: 20px;
+    border-radius: 8px;
+background: #E9731F;
+color: #FCFCFC;
+border: none;
+color: #FCFCFC;
+margin-top: 3%;
+margin-right: 5%;
+padding: 12px 25px;
+font-family: Quicksand;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.input-wrapper {
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    border-radius: 8px;
+background: var(--light, #FCFCFC);
+ margin-bottom: 5%;
+}
+.copy{
+    color: #FFF;
+font-family: Quicksand;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+padding: 20px
+}
+
+  
+  
