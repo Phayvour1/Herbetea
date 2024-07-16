@@ -45,6 +45,7 @@ export default function Home() {
         </div>
         <div className="Slimming-tea-img">
             <img src="Rectangle 60.png" alt="Slimming-tea-image" />
+        
         </div>
       </div> 
      <div className="cleasing-tea">

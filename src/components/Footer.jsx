@@ -4,6 +4,7 @@ export default function Footer() {
   return (
     <footer>
        <div className='footer'>
+       <div className='footer1'>
       <div className='herbetea-footer'>
         <h1>
         Herbetea
@@ -52,6 +53,7 @@ export default function Footer() {
         
       </div>
       </div>
+      
 
       <div className="subscribe-container">
       <div className="input-wrapper">
@@ -62,6 +64,9 @@ export default function Footer() {
           <button type="submit">Subscribe</button>
         </div>
       </div>
+      </div>
+
+
       <p className='copy'>Copyright 2024. Florence</p>
     </footer>
   );
