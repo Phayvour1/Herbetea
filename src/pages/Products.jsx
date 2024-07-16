@@ -46,9 +46,9 @@ export default function Products({ addToCart }) {
           <div className='grid-row1'>
             {products.map((product) => (
               <div className='card1' key={product.id}>
-                <a href="/productdetail">
+                {/* <a href="/productdetail"> */}
                   <img src={`https://api.timbu.cloud/images/${product.photos[0].url}`} alt={product.name} />
-                </a>
+                {/* </a> */}
                 <div>
                   <div className='card1-name'>
                     <h4>{product.name}</h4>

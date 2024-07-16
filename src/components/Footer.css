@@ -112,12 +112,12 @@ padding: 20px
     flex-direction: column-reverse;
 }
 .subscribe-container button{
-    margin-top: 10%;
+    margin-top: 9%;
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width: 13%;
-    max-height: 15%;
+    max-width: 23%;
+    max-height: 25%;
     font-size: 10px;
 }
 

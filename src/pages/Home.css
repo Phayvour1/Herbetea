@@ -274,7 +274,7 @@ line-height: 45px;
 
 .herbal-tea{
     padding: 0;
-    margin: 20px 10px 0px 20px;
+    margin: 20px 0px 0px 10px;
     display: flex;
     flex-direction: column-reverse;
 }
@@ -364,7 +364,7 @@ margin-bottom: 10%;
 .slimming-tea{
    
     padding: 0;
-    margin: 20px 10px 50px 20px;
+    margin: 20px 10px 50px 10px;
     display: flex;
     flex-direction: column-reverse;
 
@@ -387,7 +387,7 @@ margin: 0;
 
 .cleasing-tea{
     padding: 0;
-    margin: 20px 10px 50px 20px;
+    margin: 20px 10px 50px 10px;
     display: flex;
     flex-direction: column-reverse;
 }
@@ -403,7 +403,7 @@ margin: 0;
 
 .english-tea{
     padding: 0;
-    margin: 20px 10px 50px 20px;
+    margin: 20px 10px 50px 10px;
     display: flex;
     flex-direction: column-reverse;
 }
